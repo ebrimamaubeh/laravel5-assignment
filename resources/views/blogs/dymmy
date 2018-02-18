@@ -1,0 +1,22 @@
+<!-- <form action="{{ route('blogs.destroy', ['id' => $blog->id]) }}" method="post">
+		{{csrf_field()}}
+		<input type="submit" name="submit" value="Delete">
+		<input type="hidden" name="_method" value="delete">
+	</form>
+
+	<div>
+		<p>Title: {{ $blog->title }}</p>
+		<p>Description: {{ $blog->description }}</p>
+		<p>Text: {{ $blog->text }}</p>
+		<p>image: <img src="{{ asset('images/'.$blog->image_name) }}"></p>
+	</div> -->
+
+
+
+	<!-- @foreach($blogs as $blog)
+                  <td>{{ $blog->title }}</td>
+                  <td>{{ $blog->description }}</td>
+                  <td>{{ $blog->created_at }}</td>
+                   <td>
+                   <a class="btn btn-default" href="{{ route('blogs.show', ['id' => $blog->id]) }}">Show</a> </td>
+                @endforeach -->

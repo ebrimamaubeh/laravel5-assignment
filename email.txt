@@ -1,0 +1,26 @@
+​Hey Ndey, 
+
+​
+​Hope you are doing well ​, I am sending you some sample task to access your laravel experience , would like to see your approach, OOP and code style .  
+
+    Sample laravel Task .
+    1) Install fresh laravel project .
+    2) Activate default laravel login/register system.
+    3) After login create sample dashboard .
+    4) Add button to menu bar ,to add a blog button "Add Blog" 
+    5) Add Blog button will open a new page with form having fields : 
+
+    5.1) Title : atleast 30 charaters but Should not exceed more than 100 characters and contain atleast one alpha numeric character 
+    5.2) Description : Must be between 100 - 250 characters 
+    5.3) Text : a long text 
+    5.4) Image  : should only contain an image . 
+
+    6) Please create proper migrations for above and store image in public folder and name in db,  Please use eloquent for any DB interaction / Use models 
+    7) List all blogs created by user in dashboard in proper bootstrap layouts , show your creativity to show them but it should be responsive and using proper grids. User can have many blogs , so get it by Model relationships .​
+
+
+Please let me know how much time will it take to accomplish ? and after completion if you know git , please push code to public repo and let me know .Thereafter we can connect on skype phone or chat to get further . 
+
+Let me know if you need any help . 
+
+Thanks .
